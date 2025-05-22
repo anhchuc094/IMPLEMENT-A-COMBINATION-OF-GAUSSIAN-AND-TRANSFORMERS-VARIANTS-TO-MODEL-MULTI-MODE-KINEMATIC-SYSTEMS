@@ -1,1 +1,2 @@
 # IMPLEMENT-A-COMBINATION-OF-GAUSSIAN-AND-TRANSFORMERS-VARIANTS-TO-MODEL-MULTI-MODE-KINEMATIC-SYSTEMS
+Các thư viện cần thiết: numpy, scikit-learn, torch, matpotlib.
